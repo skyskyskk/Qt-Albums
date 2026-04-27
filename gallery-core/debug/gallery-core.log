@@ -1,0 +1,5 @@
+﻿   Qt/MSBuild: 3.5.0.0
+  Reading Qt configuration (D:/Qt/Qt5.14.2/5.14.2/msvc2017_64/bin/qmake)
+   Qt: 5.14.2
+    正在创建库 debug\\gallery-core.lib 和对象 debug\\gallery-core.exp
+  gallery-core.vcxproj -> D:\QTproject\QtVisual\Mastering-Qt-5-Second-Editon-master\Chapter05\gallery-core\debug\gallery-core.dll

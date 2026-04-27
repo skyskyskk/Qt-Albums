@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="PictureImageProvider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="PictureImageProvider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="qml\AlbumListPage.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qml\AlbumPage.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qml\InputDialog.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qml\PageTheme.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qml\PicturePage.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qml\Style.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qml\StyleDark.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qml\ToolBarTheme.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\icons\album-add.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\icons\album-delete.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\icons\album-edit.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\icons\back.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="database\gallery.db">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtRcc Include="gallery.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <None Include="qml\main.qml">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\icons\photo-add.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\icons\photo-delete.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qml\qmldir">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
